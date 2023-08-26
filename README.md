@@ -6,5 +6,5 @@ Email : harini.sruthi@msds.christuniversity.in
 
 | Serial No     | Lab No        | Question   | Link to The File  |
 | ------------- | ------------- | --------   | ----------------  |
-|  001          | Lab 01        |            |                   |
+|  001          | Lab 01        |            |  https://vscode.dev/github/Harini14-02/MScDSB-MDS171-23122119-Harini/blob/main/Lab%2001.ipynb                 |
 |               |               |            |                   |
