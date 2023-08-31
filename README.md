@@ -3,8 +3,3 @@ Name : Harini Sruthi T S
 Reg No : 23122119  
 Class : 1MScDS B   
 Email : harini.sruthi@msds.christuniversity.in
-
-| Serial No     | Lab No        | Question   | Link to The File  |
-| ------------- | ------------- | --------   | ----------------  |
-|  001          | Lab 01        |            |                   |
-|               |               |            |                   |
