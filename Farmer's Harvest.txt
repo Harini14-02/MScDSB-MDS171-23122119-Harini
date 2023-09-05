@@ -1,0 +1,6 @@
+Item Name	: 	Apple
+Price	: 100
+Quantity	: 	3
+Total Amount	: 	300
+Name of the customer	: 	Hani
+Phone number	: 	3413413414

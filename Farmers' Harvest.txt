@@ -1,6 +1,0 @@
-Item Name	: 	Apple
-Price	: 30
-Quantity	: 	3
-Total Amount	: 	90
-Name of the customer	: 	hani
-Phone number	: 	1343141324134
