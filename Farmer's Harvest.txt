@@ -1,6 +1,8 @@
-Item Name	: 	Apple
-Price	: 100
-Quantity	: 	3
-Total Amount	: 	300
-Name of the customer	: 	Hani
-Phone number	: 	3413413414
+Item,Qty,Price,Amount
+apple,2,30,60
+orange,3,40,120
+mango,4,50,200
+mango,5,50,250
+litchi,4,60,240
+apple,7,30,210
+apple,4,30,120
