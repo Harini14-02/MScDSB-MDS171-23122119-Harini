@@ -9,4 +9,4 @@ Email : harini.sruthi@msds.christuniversity.in
 |  001          | Lab 01        | Print Your names for n times           |                   |
 |  002          | Lab 02        | Create a function to convert the number.          |                   |
 |  003          | Lab 03        | Create a function to calculate Mean, Minimum, Maximum, Range        |                   |
-|  004          | Lab 04        | Use of functions & other programming constructs to analyse data from file         |  
+|  004          | Lab 04        | Use functions & other programming constructs to analyse data from file         |  
