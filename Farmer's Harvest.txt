@@ -6,3 +6,4 @@ mango,5,50,250
 litchi,4,60,240
 apple,7,30,210
 apple,4,30,120
+litchi,5,60,300
