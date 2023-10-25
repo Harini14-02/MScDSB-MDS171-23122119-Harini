@@ -1,3 +1,11 @@
+# class student:
+#     def __init__(self, name, phone):
+#         self.name = name
+#         self.phone = phone
+
+#     def printStudent(self):
+#         print(self.name, self.phone)
+    
 class petstore:
     def __init__(self):
         self.pet = {
@@ -22,14 +30,15 @@ class petstore:
         print("---------------------------------------")
     
     def sell(self):
+        flag = 0
         breed = input("Enter the pet you want to adopt")
+        name = input("Enter the name")
         for item in self.pet[breed]:
-            name = input("Enter the name")
-            for value in item[name]:
-                if value == 'Sold':
-                    print("Not available for adoption",end='')
-                else:
-                    print("Thank you for the adoption",end='')
+            if item == 'Not Sold':
+                print("Not available for adoption",end='')
+                flag=1
+        if flag == 0:
+            print("Thank you for the adoption",end='')
 
     def search(self):
         flag =0
@@ -44,6 +53,7 @@ class petstore:
                     print("The breed is not available")
 
 
+
     # def store(self):
     #     name = input("enter the breed name")
     #     price = input("enter the price of the breed")
@@ -55,6 +65,7 @@ class petstore:
 
 
 a = petstore()
-a.display()
-a.search()
+# a.display()
+# a.search()
 a.sell()
+        
