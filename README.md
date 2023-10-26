@@ -14,5 +14,6 @@ Email : harini.sruthi@msds.christuniversity.in
 |  006          | Lab 06        | Program Create Lists for [Item, Quantity, Price] with 10 random values of your choice.         |https://github.com/Harini14-02/MScDSB-MDS171-23122119-Harini/tree/3435e30b675d40e75f93fc325607ca55e9bc4b36/Lab%2006|
 |  007          | Lab 07        | Create a method in the class to export the detils in the from of CSV"         |https://github.com/Harini14-02/MScDSB-MDS171-23122119-Harini/blob/bfbf3adc9414025535183f1cbde7c12657bd211f/Lab%2007/Lab%2007.py|
 |  008          | Lab 08        | Write a Python program to implement a Stack class that has the following functions -Push Item, Pop Item, Print the Items in the stack, Size of Stack, The top item in the stack, Check if the stack is empty        |https://github.com/Harini14-02/MScDSB-MDS171-23122119-Harini/blob/bfbf3adc9414025535183f1cbde7c12657bd211f/Lab%2008.ipynb|
-
-
+|  009          | Lab 09        | Write a Python program to implement a Stack class that has the following functions -Push Item, Pop Item, Print the Items in the stack, Size of Stack, The top item in the stack, Check if the stack is empty        |https://github.com/Harini14-02/MScDSB-MDS171-23122119-Harini/blob/784d9b99cb5ca502fa2bd6ebb781bf54db4abf79/LAB/Lab09.py|
+|  010          | Lab 10        |Create a Python Class for managing student details and marks.
+Define the class and implement the methods of the student class in a menu-driven program for different types of users|https://github.com/Harini14-02/MScDSB-MDS171-23122119-Harini/blob/784d9b99cb5ca502fa2bd6ebb781bf54db4abf79/LAB/Lab%2010.ipynb|
